@@ -1,0 +1,7 @@
+#!/Users/wangxueying/firedrake/bin/python
+# EASY-INSTALL-DEV-SCRIPT: 'PyOP2==0.13.0+750.gedae2884','spydump'
+__requires__ = 'PyOP2==0.13.0+750.gedae2884'
+__import__('pkg_resources').require('PyOP2==0.13.0+750.gedae2884')
+__file__ = '/Users/wangxueying/firedrake/src/PyOP2/scripts/spydump'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))

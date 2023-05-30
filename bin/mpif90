@@ -1,0 +1,2 @@
+#!/bin/bash
+/Users/wangxueying/firedrake/src/petsc/default/bin/mpif90 "$@"

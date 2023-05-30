@@ -1,0 +1,11 @@
+prefix=/Users/wangxueying/firedrake
+exec_prefix=/Users/wangxueying/firedrake
+includedir=/Users/wangxueying/firedrake/include
+libdir=/Users/wangxueying/firedrake/lib
+
+Name: libsupermesh
+Description: Parallel supermeshing library
+Version: 1.0.1+
+Cflags: -I/Users/wangxueying/firedrake/include
+Libs: -L/Users/wangxueying/firedrake/lib -lsupermesh
+

@@ -1,0 +1,7 @@
+#!/Users/wangxueying/firedrake/bin/python
+# EASY-INSTALL-DEV-SCRIPT: 'firedrake==0.13.0+5723.g04f26d647','firedrake-install'
+__requires__ = 'firedrake==0.13.0+5723.g04f26d647'
+__import__('pkg_resources').require('firedrake==0.13.0+5723.g04f26d647')
+__file__ = '/Users/wangxueying/firedrake/src/firedrake/scripts/firedrake-install'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))

@@ -1,0 +1,7 @@
+#!/Users/wangxueying/firedrake/bin/python
+# EASY-INSTALL-DEV-SCRIPT: 'loopy==2022.1','loopy'
+__requires__ = 'loopy==2022.1'
+__import__('pkg_resources').require('loopy==2022.1')
+__file__ = '/Users/wangxueying/firedrake/src/loopy/bin/loopy'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))
